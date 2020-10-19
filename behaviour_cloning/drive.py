@@ -5,7 +5,7 @@
 Introduce Flask & Socket.io to establish bi-directional client-server communication.
 Ultimately, this will be done to connect our model to the simulation.
 sourca activate myenviron
-@author: harish
+@author: rishik
 """
 
 import socketio
